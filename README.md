@@ -21,6 +21,10 @@ This project solves the challenge of finding "what's actually popular" in the n8
 
 ## 📸 Live Evidence
 Here is the system running and returning real data via the Swagger UI:
+<img width="1920" height="1080" alt="Screenshot (583)" src="https://github.com/user-attachments/assets/e70faf8f-ac35-4e6c-8c25-ff863cb4b7e6" />
+<img width="1920" height="1080" alt="Screenshot (584)" src="https://github.com/user-attachments/assets/190d93a8-d38d-42e3-978e-107b8307e059" />
+<img width="1920" height="1080" alt="Screenshot (585)" src="https://github.com/user-attachments/assets/5a43a153-6481-4f06-8fe2-458a9dd507df" />
+<img width="1920" height="1080" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/840fbc0d-7264-417e-a1cb-aff368332930" />
 
 
 ## 🛠️ Tech Stack
