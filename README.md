@@ -19,6 +19,10 @@ This project solves the challenge of finding "what's actually popular" in the n8
 *   **Automation:** Built-in scheduler (Cron-job style) for daily data updates.
 *   **Segmentation:** Filters data by Platform (YouTube/Forum/Google) and Country (US/IN/Global).
 
+## 📸 Live Evidence
+Here is the system running and returning real data via the Swagger UI:
+
+
 ## 🛠️ Tech Stack
 *   **Core:** Python 3.9+
 *   **API Framework:** FastAPI + Uvicorn
