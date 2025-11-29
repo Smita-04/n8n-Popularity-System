@@ -32,5 +32,5 @@ This project solves the challenge of finding "what's actually popular" in the n8
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/n8n-popularity-system.git
+git clone https://github.com/Smita-04/n8n-popularity-system.git
 cd n8n-popularity-system
